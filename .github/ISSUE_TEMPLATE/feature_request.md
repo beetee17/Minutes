@@ -1,7 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea to improve Yata! However, please note that bug reports are
-  the current priority of Yata's development.
+about: Suggest an idea to improve Minutes!
 title: "[FEATURE]"
 labels: enhancement
 assignees: ''
